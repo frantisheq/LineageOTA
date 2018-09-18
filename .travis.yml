@@ -17,6 +17,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  fqdn: ota.julianxhokaxhiu.com
+  fqdn: frantisheq.github.io
   on:
     branch: master
